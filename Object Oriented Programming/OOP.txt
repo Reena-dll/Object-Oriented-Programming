@@ -1,0 +1,38 @@
+OOP
+
+Temel amacı
+Daha düzenli kod yazmak
+İstediğimiz kod bloklarına daha hızlı erişim
+Kod tekrarını önlemek!! - En önemlisi
+
+-------------------------------------------------------------------
+
+Sınıf : Bizim şablonumuz çatımız iskeletimiz
+Nesne : O sınıfın içerisinde bulunan özelliklere ulaşabilmemiz için elçi araç vb vb
+Apartman bizim sınıfımız
+Daireler bizim nesnemiz 
+Dairenin özellikleri de nesnenin özellikleri
+
+-------------------------------------------------------------------
+
+Katmanlı Mimari = Büyük ölçekli projelerde kodları bloklara ayırmak, kodlara erişimi kolaylaştırmak, kod tekrarını azaltmak
+
+Veri Tabanı Katmanı = Sql tabanında hazırlanacak
+prosedür
+trigger
+ilişkili tablo
+alt sorgu
+
+Varlık Katmanı = Tablo alanlarımızı değişkenlere atayıp bunları da propertiler aracılığıyla erişime açtık, public hale getirdik erişimleri açıldı.
+( Entity )
+
+Facade(Cephe, Dış Görünüş)  = Ekleme güncelleme listelenme kodlarının yazıldığı alan !!!! Data Accses Layer DALL Katmanı - 
+
+İş Mantık ( Business Logic Layer ) ( Süzgeç ) = Veriler eklenmeden silinmeden güncellenmeden vb vb bizim istediğimiz formatta yapılması bu işlemlerin. 
+Örneğin, Öğrencinin sınav notu 0 ila 100 arasında olsun. 0 dan küçük olmasın 100den büyük olmasın vb vb gibi koşulları işlediğimiz alan.
+Programın buglarını açıklarını kapattığımız alan.
+Veri katmanı ile ( Facade ) Sunum katmanı arasında bir köprü görevi gören katman !!! ÖNEMLİDİR
+
+Presentations ( Sunum ) ( Ara Yüz ) 
+
+Toplam 5 katman ile proje geliştireceğiz !!!!

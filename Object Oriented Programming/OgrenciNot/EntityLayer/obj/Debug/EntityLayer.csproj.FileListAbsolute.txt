@@ -1,0 +1,6 @@
+D:\DERS\Görsel Programlama\C#\Object Oriented Programming\OgrenciNot\EntityLayer\bin\Debug\EntityLayer.dll
+D:\DERS\Görsel Programlama\C#\Object Oriented Programming\OgrenciNot\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\DERS\Görsel Programlama\C#\Object Oriented Programming\OgrenciNot\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\Object Oriented Programming\OgrenciNot\EntityLayer\obj\Debug\EntityLayer.dll
+D:\DERS\Görsel Programlama\C#\Object Oriented Programming\OgrenciNot\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\DERS\Görsel Programlama\C#\Object Oriented Programming\OgrenciNot\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
